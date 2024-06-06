@@ -1,0 +1,76 @@
+[
+  {
+    "__class__": "pyrtlsdrlib.common.BuildFile",
+    "build_type": {
+      "__class__": "pyrtlsdrlib.common.BuildType",
+      "value": "source"
+    },
+    "file_type": {
+      "__class__": "pyrtlsdrlib.common.FileType",
+      "value": "lib"
+    },
+    "filename": {
+      "__class__": "pathlib.Path",
+      "value": "/__w/pyrtlsdrlib/pyrtlsdrlib/src/pyrtlsdrlib/lib/custom_build/librtlsdr.a"
+    },
+    "is_symlink": false,
+    "symlink_target": null
+  },
+  {
+    "__class__": "pyrtlsdrlib.common.BuildFile",
+    "build_type": {
+      "__class__": "pyrtlsdrlib.common.BuildType",
+      "value": "source"
+    },
+    "file_type": {
+      "__class__": "pyrtlsdrlib.common.FileType",
+      "value": "lib"
+    },
+    "filename": {
+      "__class__": "pathlib.Path",
+      "value": "/__w/pyrtlsdrlib/pyrtlsdrlib/src/pyrtlsdrlib/lib/custom_build/librtlsdr.so.0.9git"
+    },
+    "is_symlink": false,
+    "symlink_target": null
+  },
+  {
+    "__class__": "pyrtlsdrlib.common.BuildFile",
+    "build_type": {
+      "__class__": "pyrtlsdrlib.common.BuildType",
+      "value": "source"
+    },
+    "file_type": {
+      "__class__": "pyrtlsdrlib.common.FileType",
+      "value": "lib"
+    },
+    "filename": {
+      "__class__": "pathlib.Path",
+      "value": "/__w/pyrtlsdrlib/pyrtlsdrlib/src/pyrtlsdrlib/lib/custom_build/librtlsdr.so.0"
+    },
+    "is_symlink": true,
+    "symlink_target": {
+      "__class__": "pathlib.Path",
+      "value": "librtlsdr.so.0.9git"
+    }
+  },
+  {
+    "__class__": "pyrtlsdrlib.common.BuildFile",
+    "build_type": {
+      "__class__": "pyrtlsdrlib.common.BuildType",
+      "value": "source"
+    },
+    "file_type": {
+      "__class__": "pyrtlsdrlib.common.FileType",
+      "value": "lib"
+    },
+    "filename": {
+      "__class__": "pathlib.Path",
+      "value": "/__w/pyrtlsdrlib/pyrtlsdrlib/src/pyrtlsdrlib/lib/custom_build/librtlsdr.so"
+    },
+    "is_symlink": true,
+    "symlink_target": {
+      "__class__": "pathlib.Path",
+      "value": "librtlsdr.so.0.9git"
+    }
+  }
+]
